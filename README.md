@@ -16,4 +16,4 @@ Trong đồ án này, nhóm bắt đầu với bộ 9 notebook của tác giả 
 
 Link Colab: [Colab](https://colab.research.google.com/github/huuthang2509/Applied_DS/blob/main/HomeCredit.ipynb)
 
-Kế hoạch phân chia công việc: [Google Excel](https://docs.google.com/spreadsheets/d/1mzDQTiphrRJDpegYEPeiQmZTkZlN5Qq2nrwYgEuwhTQ/edit?usp=sharing)
+Kế hoạch phân chia công việc: [Google Sheet](https://docs.google.com/spreadsheets/d/1mzDQTiphrRJDpegYEPeiQmZTkZlN5Qq2nrwYgEuwhTQ/edit?usp=sharing)

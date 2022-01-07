@@ -14,6 +14,6 @@
 
 Trong đồ án này, nhóm bắt đầu với bộ 9 notebook của tác giả Will Koehrsen (bắt đầu từ [notebook này](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction#Introduction:-Home-Credit-Default-Risk-Competition)) để tìm hiểu và cài đặt lại, sau đó dựa trên gợi ý từ [solution](https://www.kaggle.com/c/home-credit-default-risk/discussion/64821) của nhóm tác giả Bojan Tunguz (đứng thứ [1] trên private leaderboard) để cải tiến mô hình
 
-Link Colab: [Colab](https://colab.research.google.com/drive/1tboJi0AH46lUvLp-PAj8UrBZNMvw5DcS?usp=sharing)
+Link Colab: [Colab](https://colab.research.google.com/github/huuthang2509/Applied_DS/blob/main/Report.ipynb)
 
 Kế hoạch phân chia công việc: [Google Sheet](https://docs.google.com/spreadsheets/d/1mzDQTiphrRJDpegYEPeiQmZTkZlN5Qq2nrwYgEuwhTQ/edit?usp=sharing)
